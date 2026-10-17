@@ -1,0 +1,1 @@
+usando essa temática, https://github.com/keldaanCommunity/pokemonAutoChess, quero que crie um jogo igual o TFT do lol, usando so pokémon da pokeApi, gif de frente e costas, quero que seja profissional 16 campos um pra cada tipagem, itens que dropam serve de equipamento, ditto serve como curinga, nome sera PokeHunt TeamFigther, deixe o jogo pronto para migrar para autoritátivo
